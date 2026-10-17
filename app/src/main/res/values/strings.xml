@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz en Images</string>
+    <string name="title_quiz">Quiz en Images</string>
+    <string name="score_format">Score: %1$d/%2$d</string>
+    <string name="question_number_format">Question %1$d sur %2$d</string>
+    <string name="feedback_correct">Juste !</string>
+    <string name="feedback_wrong">Faux ! C\'était : %1$s</string>
+    <string name="next_question">Question suivante</string>
+    <string name="see_result">Voir le résultat</string>
+    <string name="final_score_format">Votre score final est : %1$d / %2$d</string>
+    <string name="restart">Rejouer</string>
+
+    <!-- Cordes par défaut pour le layout -->
+    <string name="default_score">Score: 0/5</string>
+    <string name="default_question_number">Question 1 sur 5</string>
+    <string name="default_question">Quelle est cette forme ?</string>
+    <string name="choice_1">Choix 1</string>
+    <string name="choice_2">Choix 2</string>
+    <string name="choice_3">Choix 3</string>
+    <string name="default_final_score">Votre score final est : 0 / 5</string>
+    <string name="image_description">Image de la question</string>
+</resources>
